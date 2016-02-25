@@ -1,3 +1,4 @@
-Présentation de mon faux script
+Ceci est un faux projet
 
-Adrien yeah :)
+J'ai fais ce qui est demandé dans l'exercice soyez gentil :)
+
