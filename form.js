@@ -22,16 +22,6 @@ var form = {
         });
     },
 
-    inputEffect: function(input) {
-        if ($(input).val() == '') {
-            // Remove the class lactive
-            $(input).prev('label').removeClass('lactive');
-        } else {
-            // Find his label and add class Active to move it up
-            $(input).prev('label').addClass('lactive');
-        }
-    },
-
     creditCardCheck: function() {
 
         var inCC = $('#credit-card');
