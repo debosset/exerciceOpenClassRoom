@@ -69,6 +69,7 @@ var form = {
             form.inputAction();
             form.creditCardCheck();
             form.displayContainer();
+            console.log('initialisation');
         });
     } // End initialize
 
